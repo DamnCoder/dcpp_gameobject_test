@@ -1,3 +1,6 @@
 [submodule "utilities/NewClassProject"]
 	path = utilities/NewClassProject
 	url = https://github.com/DamnCoder/NewClassProject.git
+[submodule "utilities/CMakeConfigure"]
+	path = utilities/CMakeConfigure
+	url = https://github.com/DamnCoder/CMakeConfigure.git
