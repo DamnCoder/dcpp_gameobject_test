@@ -1,0 +1,3 @@
+[submodule "utilities/NewClassProject"]
+	path = utilities/NewClassProject
+	url = https://github.com/DamnCoder/NewClassProject.git
