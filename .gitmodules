@@ -7,3 +7,6 @@
 [submodule "externals/dcpp_math"]
 	path = externals/dcpp_math
 	url = https://github.com/DamnCoder/dcpp_math.git
+[submodule "externals/dcpp_gameobject"]
+	path = externals/dcpp_gameobject
+	url = https://github.com/DamnCoder/dcpp_gameobject
